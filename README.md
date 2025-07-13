@@ -47,7 +47,7 @@ It uses `digitalWrite()` and `delay()` — the building blocks of real embedded 
 ## 💻 Arduino Code
 
 📂 View the full code here:  
-[`traffic_light.ino`](./traffic_light.ino)
+[`traffic_light.ino`](traffic_light1.ino)
 
 ---
 
