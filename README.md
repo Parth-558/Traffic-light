@@ -35,7 +35,7 @@ It uses `digitalWrite()` and `delay()` — the building blocks of real embedded 
 
 ## 🖼️ Circuit Diagram
 
-![Circuit Diagram](traffic_light_circuit.png)
+![Circuit Diagram](traffic light.png)
 
 > 💡 Connect LEDs with resistors to avoid burning  
 > - Red LED → Pin 8  
